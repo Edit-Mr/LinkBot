@@ -1,5 +1,5 @@
-# Wikipedia-Link-Telegram
-Telegram中文維基百科連結Bot
+# Edit Mr.-Link-Telegram
+Telegram連結Bot
 
 ## 安裝
 1. 複製 ```config/config.example.php``` 至 ```config/config.php``` 並設定裡面的內容
